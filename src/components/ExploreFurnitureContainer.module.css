@@ -1,0 +1,163 @@
+.exploreInFurnitures,
+.viewAll {
+  position: absolute;
+  display: inline-block;
+}
+.exploreInFurnitures {
+  top: 10.83px;
+  left: 0.09px;
+  font-weight: 600;
+  width: 222.93px;
+  height: 29px;
+}
+.viewAll {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: calc(50% - 9.98px);
+  left: calc(50% - 32.97px);
+  font-size: 15.99px;
+  font-weight: 500;
+  font-family: var(--font-outfit);
+  color: var(--color-seagreen);
+  text-align: left;
+  width: 64.94px;
+  height: 19.98px;
+}
+.button {
+  position: absolute;
+  top: 0;
+  left: 1024px;
+  border-radius: 7.99px;
+  background-color: var(--ffffff);
+  border: 1px solid var(--color-seagreen);
+  box-sizing: border-box;
+  width: 119.94px;
+  height: 49.96px;
+  overflow: hidden;
+}
+.product1,
+.rampalStore {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: inline-block;
+  width: 117.9px;
+  height: 19.98px;
+}
+.rampalStore {
+  top: 29.13px;
+  left: 0.11px;
+  width: 113px;
+  height: 20px;
+}
+.product1Parent {
+  position: absolute;
+  top: 267.77px;
+  left: 0;
+  width: 117.9px;
+  height: 49.13px;
+}
+.groupChild,
+.groupContainer,
+.susilaStore {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 259.78px;
+}
+.groupChild {
+  border-radius: 7.99px;
+  height: 259.78px;
+  object-fit: cover;
+}
+.groupContainer,
+.susilaStore {
+  height: 316.9px;
+}
+.susilaStore {
+  top: 28.98px;
+  display: inline-block;
+  width: 139.88px;
+  height: 19.98px;
+}
+.product2Parent,
+.rectangleParent {
+  position: absolute;
+  top: 272.77px;
+  left: 0;
+  width: 139.88px;
+  height: 48.96px;
+}
+.rectangleParent {
+  top: 0;
+  left: 286.75px;
+  width: 259.78px;
+  height: 321.72px;
+}
+.groupDiv,
+.product3Parent,
+.sumitStore {
+  position: absolute;
+  left: 0;
+  width: 125.89px;
+}
+.sumitStore {
+  top: 28.98px;
+  display: inline-block;
+  height: 19.98px;
+}
+.groupDiv,
+.product3Parent {
+  top: 272.77px;
+  height: 48.96px;
+}
+.groupDiv {
+  top: 0;
+  left: 573.51px;
+  width: 259.78px;
+  height: 321.72px;
+}
+.lalitaStore,
+.product4Parent {
+  position: absolute;
+  left: 0;
+  width: 136.88px;
+}
+.lalitaStore {
+  top: 28.98px;
+  display: inline-block;
+  height: 19.98px;
+}
+.product4Parent {
+  top: 272.77px;
+  height: 48.96px;
+}
+.groupParent,
+.groupParent1 {
+  position: absolute;
+  top: 0;
+  left: 860.26px;
+  width: 259.78px;
+  height: 321.72px;
+}
+.groupParent {
+  top: 76.93px;
+  left: 0;
+  width: 1129.11px;
+  overflow-x: auto;
+  font-size: 15.99px;
+  font-family: var(--font-outfit);
+}
+.featuredArtworks {
+  position: absolute;
+  top: 776px;
+  left: 155px;
+  width: 1143.94px;
+  height: 398.66px;
+  text-align: left;
+  font-size: 23.98px;
+  color: var(--color-black);
+  font-family: var(--font-roboto);
+}

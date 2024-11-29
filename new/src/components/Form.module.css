@@ -1,0 +1,17 @@
+.span {
+  color: var(--color-orangered);
+}
+.fullNameContainer,
+.name {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.name {
+  width: 70px;
+  height: 18px;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-darkslategray-100);
+  font-family: var(--font-outfit);
+}

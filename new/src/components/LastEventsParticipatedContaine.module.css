@@ -1,0 +1,90 @@
+.eventsChild {
+  position: absolute;
+  top: 0;
+  left: 211px;
+  border-radius: var(--br-3xs);
+  width: 245px;
+  height: 300px;
+  object-fit: cover;
+}
+.joinedChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 53.31px;
+  background-color: var(--color-seagreen);
+  border: 1.1px solid var(--ffffff);
+  box-sizing: border-box;
+  width: 131.13px;
+  height: 34.12px;
+}
+.materialSymbolsstarIcon {
+  position: absolute;
+  top: 8.7px;
+  left: 14px;
+  width: 14px;
+  height: 14px;
+  overflow: hidden;
+}
+.joined1 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 6.4px;
+  left: 38px;
+  font-size: 18.12px;
+  font-weight: 500;
+  font-family: var(--font-roboto);
+  color: var(--ffffff);
+  text-align: left;
+  display: inline-block;
+}
+.joined1:active {
+  color: var(--color-seagreen);
+}
+.materialSymbolsstarOutlineIcon {
+  position: absolute;
+  top: 6.4px;
+  left: 11.73px;
+  width: 19.19px;
+  height: 19.19px;
+  overflow: hidden;
+}
+.joined {
+  position: absolute;
+  top: 242px;
+  left: 266px;
+  width: 131.13px;
+  height: 34.12px;
+}
+.magadhInGirls,
+.sep2023 {
+  position: absolute;
+  top: 185px;
+  left: 284.4px;
+  text-transform: uppercase;
+}
+.magadhInGirls {
+  top: 208.9px;
+  left: 250px;
+}
+.events,
+.joined2 {
+  position: absolute;
+  top: 242px;
+  left: 0;
+  width: 131.13px;
+  height: 34.12px;
+}
+.events {
+  top: 564px;
+  left: 619px;
+  width: 456px;
+  height: 300px;
+  text-align: left;
+  font-size: 18.47px;
+  color: var(--ffffff);
+  font-family: var(--font-outfit);
+}

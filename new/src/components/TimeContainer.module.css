@@ -1,0 +1,36 @@
+.base {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-10xs);
+  background-color: var(--color-mediumvioletred);
+  box-shadow: 0 15px 30px rgba(0, 0, 0, 0.08);
+  width: 166px;
+  height: 118px;
+}
+.time {
+  top: 71px;
+  left: 64px;
+}
+.baseParent,
+.pm,
+.time {
+  position: absolute;
+}
+.pm {
+  top: 26.03px;
+  left: 21px;
+  font-size: var(--font-size-9xl);
+  font-weight: 800;
+  font-family: var(--font-nunito);
+}
+.baseParent {
+  top: 287px;
+  left: 216px;
+  width: 166px;
+  height: 118px;
+  text-align: center;
+  font-size: var(--font-size-base);
+  color: var(--ffffff);
+  font-family: var(--font-outfit);
+}

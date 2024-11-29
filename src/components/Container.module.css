@@ -1,0 +1,121 @@
+.blogs,
+.groupChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.blogs {
+  font-size: var(--font-size-37xl);
+  line-height: 34.21px;
+  font-weight: 600;
+  font-family: var(--font-roboto);
+  color: var(--color-black);
+}
+.groupChild {
+  width: 384.9px;
+  height: 256.6px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.graphicDesign {
+  position: absolute;
+  width: 27.11%;
+  top: calc(50% + 22.21px);
+  left: 0;
+  font-size: 21.38px;
+  line-height: 32.07px;
+  color: var(--color-gray-300);
+  display: inline-block;
+}
+.groupItem {
+  position: absolute;
+  top: 287.61px;
+  left: 50.25px;
+  width: 16.04px;
+  height: 1.07px;
+}
+.discoverTheCreative {
+  margin: 0;
+}
+.discoverTheCreativeContainer {
+  position: absolute;
+  top: 303.57px;
+  left: 0;
+  line-height: 32.07px;
+}
+.explorePracticalWasteContainer,
+.unearthTheSecretsContainer {
+  position: absolute;
+  top: 303.57px;
+  left: 428px;
+  line-height: 32.07px;
+}
+.unearthTheSecretsContainer {
+  left: 851px;
+}
+.groupParent {
+  position: absolute;
+  top: 68.43px;
+  left: 0;
+  width: 1262px;
+  height: 496.57px;
+  font-size: var(--font-size-xl);
+  color: var(--color-gray-100);
+}
+.groupInner {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 384.9px;
+  height: 256.6px;
+  object-fit: cover;
+}
+.graphicDesign1 {
+  position: absolute;
+  width: 88.89%;
+  top: calc(50% + 118.75px);
+  left: 0;
+  line-height: 32.07px;
+  display: inline-block;
+}
+.groupContainer {
+  top: 68.43px;
+  left: 427.67px;
+  height: 303.5px;
+  cursor: pointer;
+}
+.groupContainer,
+.groupDiv,
+.groupIcon {
+  position: absolute;
+  width: 384.9px;
+}
+.groupIcon {
+  top: 0;
+  left: 0;
+  height: 256.6px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.groupDiv {
+  top: 68.43px;
+  left: 855.33px;
+  height: 303.5px;
+  font-family: var(--font-poppins);
+}
+.blogsParent,
+.gridArticleBig {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1262px;
+  height: 565px;
+}
+.gridArticleBig {
+  top: 1568px;
+  left: 100px;
+  text-align: left;
+  font-size: 21.38px;
+  color: var(--color-gray-300);
+  font-family: var(--font-outfit);
+}

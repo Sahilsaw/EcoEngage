@@ -1,0 +1,101 @@
+.span {
+  color: var(--color-orangered);
+}
+.mobileNumberContainer {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.checkChild,
+.email,
+.pass {
+  position: absolute;
+  top: 90px;
+  left: 0;
+  width: 105px;
+  height: 18px;
+}
+.checkChild,
+.pass {
+  top: 180px;
+  width: 70px;
+}
+.checkChild {
+  top: 0;
+  border-radius: var(--br-9xs);
+  border: 1px solid var(--color-darkslategray-100);
+  box-sizing: border-box;
+  width: 17px;
+  height: 17px;
+}
+.check,
+.iAgreeTo {
+  position: absolute;
+  top: 0;
+  left: 27px;
+}
+.check {
+  top: 270px;
+  left: 0;
+  width: 191px;
+  height: 17px;
+  font-size: var(--font-size-2xs);
+}
+.signIn {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: relative;
+  font-size: var(--font-size-lg);
+  font-weight: 600;
+  font-family: var(--font-roboto);
+  color: var(--ffffff);
+  text-align: left;
+  display: inline-block;
+}
+.signInWrapper {
+  position: absolute;
+  top: 298px;
+  left: 0;
+  border-radius: var(--br-6xl);
+  background-color: var(--color-seagreen);
+  width: 400.01px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  padding: 10.00029182434082px 78.00227355957031px;
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+}
+.frameChild,
+.frameInner,
+.frameItem {
+  border: 1px solid var(--color-black);
+  background-color: var(--ffffff);
+  position: absolute;
+  top: 30.78px;
+  left: -0.99px;
+  border-radius: var(--br-31xl);
+  box-sizing: border-box;
+  width: 401px;
+  height: 49px;
+}
+.frameInner,
+.frameItem {
+  top: 119.78px;
+}
+.frameInner {
+  top: 208.78px;
+  left: 1.01px;
+}
+.nameParent {
+  position: relative;
+  width: 400.02px;
+  height: 339px;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-darkslategray-100);
+  font-family: var(--font-outfit);
+}

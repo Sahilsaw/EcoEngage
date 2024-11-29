@@ -1,0 +1,91 @@
+.webinarChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-mini);
+  background-color: var(--color-seagreen);
+  width: 1240px;
+  height: 330px;
+}
+.maskGroupIcon {
+  position: absolute;
+  top: -3px;
+  left: 0;
+  width: 1243px;
+  height: 336px;
+}
+.atEcoengageplayWe,
+.learnWithExperts {
+  position: absolute;
+  left: 0;
+  display: inline-block;
+}
+.learnWithExperts {
+  top: 0;
+  line-height: 100%;
+  text-transform: capitalize;
+  width: 575px;
+  height: 67px;
+}
+.atEcoengageplayWe {
+  top: 81px;
+  font-size: 21.81px;
+  font-family: var(--font-outfit);
+  width: 495.95px;
+}
+.groupChild {
+  position: absolute;
+  top: 169px;
+  left: 1px;
+  border-radius: var(--br-81xl);
+  border: 1px solid var(--ffffff);
+  box-sizing: border-box;
+  width: 137px;
+  height: 38px;
+}
+.learnMore {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 179px;
+  left: 20px;
+  font-size: 19.27px;
+  line-height: 100%;
+  text-transform: capitalize;
+  font-family: var(--font-outfit);
+  color: var(--ffffff);
+  text-align: left;
+  display: inline-block;
+}
+.learnMore:hover {
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.1);
+}
+.learnWithExpertsParent,
+.webinarItem {
+  position: absolute;
+  top: 21px;
+  left: 524px;
+  width: 575px;
+  height: 207px;
+}
+.webinarItem {
+  top: 20.84px;
+  left: 30px;
+  border-radius: 13.11px;
+  width: 415px;
+  height: 288.32px;
+  object-fit: cover;
+}
+.webinar {
+  position: absolute;
+  top: 1134px;
+  left: 100px;
+  width: 1240px;
+  height: 330px;
+  text-align: left;
+  font-size: 62.48px;
+  color: var(--ffffff);
+  font-family: var(--font-roboto);
+}

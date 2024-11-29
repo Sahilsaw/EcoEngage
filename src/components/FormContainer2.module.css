@@ -1,0 +1,92 @@
+.heroChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1438.76px;
+  height: 649.44px;
+  object-fit: cover;
+}
+.recycleShop {
+  margin: 0;
+}
+.recycleShopContainer {
+  top: 150px;
+  left: calc(50% - 329.38px);
+  line-height: 67.94px;
+  font-family: var(--font-roboto);
+  width: 658px;
+  height: 136px;
+}
+.purchaseProducts,
+.recycleShop1,
+.recycleShopContainer {
+  position: absolute;
+  display: inline-block;
+}
+.recycleShop1 {
+  top: 286px;
+  left: 346.7px;
+  font-size: 21.98px;
+  letter-spacing: 0.03em;
+  line-height: 34.97px;
+  width: 746.36px;
+  height: 82.93px;
+}
+.purchaseProducts {
+  top: 20.99px;
+  left: 60.17px;
+  font-weight: 500;
+  width: 194.5px;
+  height: 27.99px;
+}
+.button {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 11.19px;
+  background-color: var(--color-seagreen);
+  width: 314.84px;
+  height: 69.96px;
+  overflow: hidden;
+}
+.startSelling {
+  position: absolute;
+  top: 20.99px;
+  left: 89.55px;
+  font-weight: 500;
+  display: inline-block;
+  width: 137.13px;
+  height: 27.99px;
+}
+.button1,
+.buttonParent {
+  position: absolute;
+  height: 69.96px;
+}
+.button1 {
+  top: 0;
+  left: 369.41px;
+  border-radius: 11.19px;
+  background-color: var(--ffffff);
+  width: 314.84px;
+  overflow: hidden;
+  color: var(--color-seagreen);
+}
+.buttonParent {
+  top: 439.39px;
+  left: 377.76px;
+  width: 684.24px;
+  text-align: left;
+  font-size: 22.39px;
+}
+.hero {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1438.76px;
+  height: 649.44px;
+  text-align: center;
+  font-size: var(--font-size-51xl);
+  color: var(--ffffff);
+  font-family: var(--font-outfit);
+}

@@ -1,0 +1,120 @@
+.profileChild,
+.vectorIcon {
+  position: absolute;
+  height: 92.79%;
+  width: 34.9%;
+  top: 7.21%;
+  right: 0;
+  bottom: 0;
+  left: 65.1%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vectorIcon {
+  height: 2.15%;
+  width: 0.97%;
+  top: 4.49%;
+  right: 5.42%;
+  bottom: 93.36%;
+  left: 93.61%;
+}
+.profileItem {
+  position: absolute;
+  top: 96px;
+  left: 0;
+  width: 1440px;
+  height: 336.77px;
+  object-fit: cover;
+}
+.medalStatTile {
+  position: absolute;
+  top: calc(50% + 138.85px);
+  left: calc(50% - 500.12px);
+  border-radius: 6.19px;
+  box-shadow: -0.5723810791969299px -0.5723810791969299px 7.44px #fafbff,
+    1.1447621583938599px 1.1447621583938599px 8.59px rgba(166, 171, 189, 0.5);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.lastEventsParticipated {
+  position: absolute;
+  top: 515px;
+  left: 562px;
+  font-weight: 600;
+  color: var(--color-seagreen);
+}
+.eventsChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  width: 245px;
+  height: 300px;
+  object-fit: cover;
+}
+.davPublicSchool,
+.sep2023 {
+  position: absolute;
+  top: 185px;
+  left: 73.4px;
+  text-transform: uppercase;
+}
+.davPublicSchool {
+  top: 208.9px;
+  left: 27.14px;
+}
+.events {
+  position: absolute;
+  top: 564px;
+  left: 562px;
+  width: 245px;
+  height: 300px;
+  font-size: 18.47px;
+  font-family: var(--font-outfit);
+}
+.yourSustainableProfile {
+  position: absolute;
+  top: 144px;
+  left: 368px;
+  font-size: var(--font-size-34xl);
+  line-height: 67.94px;
+  display: inline-block;
+  text-align: center;
+  width: 703.39px;
+  height: 135.88px;
+}
+.profileInner {
+  position: absolute;
+  top: 939px;
+  left: 0;
+  background-color: var(--color-seagreen);
+  width: 1588px;
+  height: 196px;
+}
+.copyright {
+  position: absolute;
+  top: 971px;
+  left: calc(50% - 133px);
+  font-size: var(--font-size-xs);
+  letter-spacing: 0.26px;
+  line-height: 16px;
+  font-family: var(--font-outfit);
+  text-align: center;
+  display: inline-block;
+  width: 422px;
+  height: 24px;
+}
+.profile {
+  position: relative;
+  background-color: var(--ffffff);
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 18.19px;
+  color: var(--ffffff);
+  font-family: var(--font-roboto);
+}

@@ -1,0 +1,84 @@
+.groupChild,
+.groupItem {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: 24.78px;
+  background-color: var(--ffffff);
+}
+.groupItem {
+  height: 17.92%;
+  width: 27.72%;
+  top: 69.81%;
+  right: 35.64%;
+  bottom: 12.26%;
+  left: 36.63%;
+  border-radius: 7.43px;
+  background-color: var(--color-goldenrod-200);
+  opacity: 0.15;
+}
+.div,
+.ecocoins {
+  position: absolute;
+  height: 14.15%;
+  width: 80.2%;
+  top: 71.7%;
+  left: 9.9%;
+  letter-spacing: 0.02px;
+  font-weight: 600;
+  display: inline-block;
+}
+.ecocoins {
+  height: 29.25%;
+  width: 94.34%;
+  top: 47.17%;
+  left: 2.97%;
+  font-family: var(--font-roboto);
+  color: var(--color-black);
+}
+.medalsIcon {
+  position: absolute;
+  height: 26.42%;
+  width: 27.72%;
+  top: 14.15%;
+  right: 36.63%;
+  bottom: 59.43%;
+  left: 35.64%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.rectangleParent {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.property1defaultChild {
+  position: absolute;
+  height: 42.74%;
+  width: 44.87%;
+  top: 11.46%;
+  right: 28.05%;
+  bottom: 45.81%;
+  left: 27.08%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.property1default {
+  position: relative;
+  width: 125.12px;
+  height: 131.32px;
+  text-align: center;
+  font-size: 14.87px;
+  color: var(--color-goldenrod-100);
+  font-family: var(--font-inter);
+}

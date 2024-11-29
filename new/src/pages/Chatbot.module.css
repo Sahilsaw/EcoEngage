@@ -1,0 +1,319 @@
+.chatbotChild {
+  position: absolute;
+  height: 91.75%;
+  width: 34.9%;
+  top: 8.25%;
+  right: 0;
+  bottom: 0;
+  left: 65.1%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.chatbot1 {
+  position: absolute;
+  top: calc(50% - 372.01px);
+  left: calc(50% - 52.22px);
+  font-size: 22.56px;
+  font-weight: 600;
+  font-family: var(--font-roboto);
+  color: var(--color-darkslategray-100);
+}
+.chatbotItem {
+  border: 0;
+  background-color: rgba(239, 246, 252, 0.87);
+  position: absolute;
+  top: calc(50% + 332.58px);
+  left: calc(50% - 376.84px);
+  border-radius: 20.97px;
+  width: 656.78px;
+  height: 66.27px;
+}
+.chatbotInner {
+  position: absolute;
+  top: calc(50% + 330.91px);
+  left: calc(50% + 300.08px);
+  border-radius: 16.78px;
+  background-color: var(--color-darkseagreen);
+  width: 65.43px;
+  height: 65.43px;
+}
+.fluentcamera24RegularIcon {
+  position: absolute;
+  top: calc(50% + 350.2px);
+  left: calc(50% + 228.78px);
+  width: 31.87px;
+  height: 31.87px;
+}
+.fluentemojiLaugh16RegularIcon {
+  position: absolute;
+  top: calc(50% + 348.52px);
+  left: calc(50% + 171.74px);
+  width: 36.07px;
+  height: 36.07px;
+}
+.antDesignpaperClipOutlinedIcon {
+  position: absolute;
+  top: calc(50% + 349.36px);
+  left: calc(50% - 363px);
+  width: 35.23px;
+  height: 35.23px;
+}
+.today830pm {
+  top: calc(50% - 158.95px);
+  left: calc(50% - 600.8px);
+}
+.today830pm,
+.today833pm,
+.today834pm,
+.today836pm,
+.today858pm {
+  position: absolute;
+  letter-spacing: 0.05em;
+  font-weight: 300;
+  display: inline-block;
+  width: 143.43px;
+  height: 21.81px;
+}
+.today836pm {
+  top: calc(50% + 188.5px);
+  left: calc(50% - 601.64px);
+}
+.today833pm,
+.today834pm,
+.today858pm {
+  left: calc(50% + 534.12px);
+}
+.today833pm {
+  top: calc(50% - 54.1px);
+  font-family: var(--font-roboto);
+}
+.today834pm,
+.today858pm {
+  top: calc(50% + 49.91px);
+}
+.today858pm {
+  top: calc(50% + 265.48px);
+}
+.lineDiv {
+  position: absolute;
+  top: calc(50% - 319.92px);
+  left: calc(50% - 720.42px);
+  border-top: 0.8px solid var(--color-darkgray);
+  box-sizing: border-box;
+  width: 1440.84px;
+  height: 0.84px;
+}
+.bimicFillIcon,
+.bithreeDotsVerticalIcon {
+  position: absolute;
+  top: calc(50% - 386.27px);
+  left: calc(50% + 307.63px);
+  width: 33.55px;
+  height: 33.55px;
+}
+.bimicFillIcon {
+  top: calc(50% + 347.68px);
+  left: calc(50% + 318.53px);
+  width: 31.87px;
+  height: 31.87px;
+}
+.chatbotChild1,
+.chatbotChild2,
+.rectangleDiv {
+  position: absolute;
+  top: calc(50% - 285.5px);
+  left: calc(50% - 617px);
+  border-radius: 20.97px;
+  background-color: var(--color-gainsboro-100);
+  width: 185.37px;
+  height: 49.49px;
+}
+.chatbotChild1,
+.chatbotChild2 {
+  top: calc(50% - 216.5px);
+  left: calc(50% - 619px);
+  width: 223.96px;
+}
+.chatbotChild2 {
+  top: calc(50% + 113.5px);
+  width: 488px;
+  height: 75px;
+}
+.chatbotChild3,
+.chatbotChild4,
+.chatbotChild5 {
+  position: absolute;
+  top: calc(50% - 110.5px);
+  left: calc(50% + 519px);
+  border-radius: 20.97px;
+  background-color: var(--color-darkseagreen);
+  width: 151.82px;
+  height: 49.49px;
+}
+.chatbotChild4,
+.chatbotChild5 {
+  top: calc(50% - 6.5px);
+  left: calc(50% + 311px);
+  width: 359.85px;
+}
+.chatbotChild5 {
+  top: calc(50% + 209.5px);
+  left: calc(50% + 502px);
+  width: 168.6px;
+}
+.chatbotChild10,
+.chatbotChild6,
+.chatbotChild7,
+.chatbotChild8,
+.chatbotChild9,
+.ellipseDiv {
+  position: absolute;
+  top: calc(50% - 242.83px);
+  left: calc(50% - 629.32px);
+  border-radius: 50%;
+  background-color: var(--color-gainsboro-100);
+  width: 15.1px;
+  height: 15.1px;
+}
+.chatbotChild10,
+.chatbotChild6,
+.chatbotChild7,
+.chatbotChild8,
+.chatbotChild9 {
+  top: calc(50% - 171.53px);
+  left: calc(50% - 630.16px);
+}
+.chatbotChild10,
+.chatbotChild7,
+.chatbotChild8,
+.chatbotChild9 {
+  top: calc(50% + 180.44px);
+  left: calc(50% - 631px);
+}
+.chatbotChild10,
+.chatbotChild8,
+.chatbotChild9 {
+  top: calc(50% - 70.04px);
+  left: calc(50% + 673.36px);
+  background-color: var(--color-darkseagreen);
+}
+.chatbotChild10,
+.chatbotChild9 {
+  top: calc(50% + 33.97px);
+}
+.chatbotChild10 {
+  top: calc(50% + 249.54px);
+}
+.div,
+.div1 {
+  position: absolute;
+  color: var(--color-darkslategray-200);
+}
+.div {
+  top: calc(50% - 271.5px);
+  left: calc(50% - 601px);
+  font-size: var(--font-size-lg);
+  letter-spacing: 0.05em;
+  display: inline-block;
+  width: 153px;
+  height: 21px;
+}
+.div1 {
+  top: calc(50% - 202.5px);
+  left: calc(50% - 595px);
+  font-size: var(--font-size-mid);
+  width: 175.31px;
+  height: 21.81px;
+}
+.div1,
+.div2,
+.div3,
+.div4 {
+  letter-spacing: 0.05em;
+  display: inline-block;
+}
+.div2 {
+  position: absolute;
+  top: calc(50% + 125.4px);
+  left: calc(50% - 584.87px);
+  font-size: 21.81px;
+  color: var(--color-darkslategray-200);
+  width: 461.34px;
+  height: 21.81px;
+}
+.div3,
+.div4 {
+  color: var(--ffffff);
+}
+.div3 {
+  position: absolute;
+  top: calc(50% - 96.5px);
+  left: calc(50% + 550px);
+  font-size: var(--font-size-mid);
+  width: 89px;
+  height: 22px;
+}
+.div4 {
+  top: calc(50% + 6.5px);
+  left: calc(50% + 342px);
+  font-size: 17.71px;
+  width: 298px;
+  height: 22.92px;
+}
+.bot1Icon,
+.div4,
+.div5 {
+  position: absolute;
+}
+.div5 {
+  top: calc(50% + 223.5px);
+  left: calc(50% + 523px);
+  font-size: var(--font-size-mid);
+  letter-spacing: 0.05em;
+  color: var(--ffffff);
+  display: inline-block;
+  width: 128px;
+  height: 21px;
+}
+.bot1Icon {
+  top: calc(50% - 380.4px);
+  left: calc(50% - 117.65px);
+  width: 44.46px;
+  height: 44.46px;
+  object-fit: cover;
+}
+.cross,
+.crossChild,
+.crossItem {
+  position: absolute;
+  top: -0.71px;
+  left: -0.71px;
+  width: 17.74px;
+  height: 17.74px;
+}
+.cross,
+.crossItem {
+  left: 0;
+}
+.cross {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 58px;
+  left: 59px;
+  width: 17.03px;
+  height: 17.03px;
+}
+.chatbot {
+  position: relative;
+  background-color: var(--ffffff);
+  width: 100%;
+  height: 895px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 16.78px;
+  color: var(--color-dimgray-100);
+  font-family: var(--font-outfit);
+}

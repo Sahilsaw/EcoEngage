@@ -1,0 +1,106 @@
+.groupChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 185.94px 185.94px 0 0;
+  background-color: var(--ffffff);
+  box-shadow: 0 4.49397611618042px 4.49px rgba(0, 0, 0, 0.25);
+  border: 2.2px solid var(--color-darkslateblue-200);
+  box-sizing: border-box;
+  width: 373px;
+  height: 668.48px;
+}
+.groupItem {
+  position: absolute;
+  top: calc(50% - 271.79px);
+  left: calc(50% - 92.99px);
+  width: 192.65px;
+  height: 197.71px;
+}
+.sommnathDas {
+  position: absolute;
+  top: 270.62px;
+  left: calc(50% - 99.75px);
+  font-weight: 600;
+  display: inline-block;
+  width: 207.35px;
+  height: 27.76px;
+}
+.materialSymbolslocationOnIcon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 33.56px;
+  height: 34.44px;
+  overflow: hidden;
+}
+.kerla43rdStreet {
+  position: absolute;
+  top: 8.37px;
+  left: 36.75px;
+  line-height: 87.52%;
+  font-weight: 500;
+  display: inline-block;
+  width: 177px;
+  height: 33px;
+}
+.materialSymbolslocationOnParent {
+  position: absolute;
+  top: 338.63px;
+  left: 93.25px;
+  width: 213.75px;
+  height: 41.37px;
+  font-size: 20.22px;
+  color: var(--color-dimgray-300);
+  font-family: var(--font-outfit);
+}
+.groupInner {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 12.36px;
+  background-color: var(--color-darkslateblue-100);
+  width: 154.12px;
+  height: 44.64px;
+}
+.editProfile {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: calc(50% - 7.44px);
+  left: calc(50% - 41.61px);
+  font-size: 16.85px;
+  line-height: 87.52%;
+  font-family: var(--font-outfit);
+  color: var(--ffffff);
+  text-align: left;
+  display: inline-block;
+  width: 95.7px;
+  height: 16.12px;
+}
+.groupWrapper,
+.rectangleGroup,
+.rectangleParent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 154.12px;
+  height: 44.64px;
+}
+.groupWrapper,
+.rectangleParent {
+  top: 535.45px;
+  left: 110px;
+}
+.rectangleParent {
+  top: 259px;
+  left: 95px;
+  width: 373px;
+  height: 668.48px;
+  text-align: left;
+  font-size: 26.96px;
+  color: var(--color-darkslateblue-100);
+  font-family: var(--font-roboto);
+}

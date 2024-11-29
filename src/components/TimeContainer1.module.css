@@ -1,0 +1,35 @@
+.rdKerlaStreet {
+  position: absolute;
+  top: 212px;
+  left: 0;
+  font-size: var(--font-size-5xl);
+  font-weight: 600;
+}
+.joinHandsWith {
+  position: absolute;
+  top: 91px;
+  left: 0;
+  font-size: var(--font-size-lgi);
+  line-height: 25px;
+  display: inline-block;
+  width: 470px;
+}
+.aboutEvent,
+.text {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-37xl);
+  font-family: var(--font-roboto);
+  color: var(--color-seagreen);
+}
+.text {
+  top: 76px;
+  left: 608px;
+  width: 470px;
+  height: 405px;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+  font-family: var(--font-outfit);
+}

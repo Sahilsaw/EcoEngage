@@ -1,0 +1,78 @@
+.eventsChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  width: 245px;
+  height: 300px;
+  object-fit: cover;
+}
+.nalandaGirlsH,
+.sep2023 {
+  position: absolute;
+  text-transform: uppercase;
+}
+.sep2023 {
+  top: 185px;
+  left: 73.4px;
+}
+.nalandaGirlsH {
+  top: 208.9px;
+  left: calc(50% - 86.5px);
+}
+.eventsItem {
+  position: absolute;
+  top: 242px;
+  left: 55px;
+  border-radius: 53.31px;
+  background-color: var(--color-seagreen);
+  border: 1.1px solid var(--ffffff);
+  box-sizing: border-box;
+  width: 131.13px;
+  height: 34.12px;
+}
+.materialSymbolsstarIcon {
+  position: absolute;
+  top: 250.7px;
+  left: 69px;
+  width: 14px;
+  height: 14px;
+  overflow: hidden;
+}
+.joined {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 248.4px;
+  left: 93px;
+  font-size: 18.12px;
+  font-weight: 500;
+  font-family: var(--font-roboto);
+  color: var(--ffffff);
+  text-align: left;
+  display: inline-block;
+}
+.joined:active {
+  color: var(--color-seagreen);
+}
+.materialSymbolsstarOutlineIcon {
+  position: absolute;
+  top: 248.4px;
+  left: 66.73px;
+  width: 19.19px;
+  height: 19.19px;
+  overflow: hidden;
+}
+.events {
+  position: absolute;
+  top: 564px;
+  left: 1098px;
+  width: 245px;
+  height: 300px;
+  text-align: left;
+  font-size: 18.47px;
+  color: var(--ffffff);
+  font-family: var(--font-outfit);
+}

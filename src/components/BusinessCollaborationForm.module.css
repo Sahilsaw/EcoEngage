@@ -1,0 +1,86 @@
+.businessCollaborationChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 43.93px;
+  width: 698.04px;
+  height: 618.96px;
+  object-fit: cover;
+}
+.businessCollaborationItem {
+  position: absolute;
+  top: 60.53px;
+  left: 348.53px;
+  border-radius: 43.93px;
+  background-color: var(--color-gray-500);
+  box-shadow: -14.644225120544434px 14.644225120544434px 34.17px
+    rgba(0, 0, 0, 0.25);
+  backdrop-filter: blur(48.81px);
+  width: 901.11px;
+  height: 497.9px;
+}
+.becomeBusinessPartner {
+  position: absolute;
+  top: 120.08px;
+  left: 623.84px;
+  line-height: 100%;
+  text-transform: capitalize;
+  display: inline-block;
+  width: 575.03px;
+  height: 358.3px;
+}
+.atEcoengageplayWe {
+  position: absolute;
+  top: 255px;
+  left: 623.64px;
+  font-size: 21.81px;
+  font-family: var(--font-outfit);
+  color: var(--color-dimgray-100);
+  display: inline-block;
+  width: 495.95px;
+}
+.businessCollaborationInner {
+  position: absolute;
+  top: 343px;
+  left: 624.64px;
+  border-radius: var(--br-81xl);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 137px;
+  height: 38px;
+}
+.learnMore {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 353px;
+  left: 643.64px;
+  font-size: 19.27px;
+  line-height: 100%;
+  text-transform: capitalize;
+  font-family: var(--font-outfit);
+  color: var(--color-dimgray-100);
+  text-align: left;
+  display: inline-block;
+}
+.icon {
+  position: absolute;
+  top: 93px;
+  left: 53.64px;
+  width: 590px;
+  height: 368.75px;
+  object-fit: cover;
+}
+.businessCollaboration {
+  position: absolute;
+  top: 2304px;
+  left: 95.36px;
+  width: 1249.64px;
+  height: 618.96px;
+  text-align: left;
+  font-size: 62.48px;
+  color: var(--color-seagreen);
+  font-family: var(--font-roboto);
+}

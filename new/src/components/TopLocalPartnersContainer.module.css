@@ -1,0 +1,91 @@
+.topLocalPartners {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size: 25.09px;
+  font-weight: 600;
+  font-family: var(--font-roboto);
+  display: inline-block;
+  width: 272px;
+  height: 30.34px;
+}
+.groupChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 50%;
+  width: 265.82px;
+  height: 265.82px;
+  object-fit: cover;
+}
+.rupaStore {
+  position: absolute;
+  top: 292.7px;
+  left: 85.41px;
+  display: inline-block;
+  width: 129.89px;
+  height: 19.98px;
+}
+.ellipseParent,
+.susilaStore {
+  position: absolute;
+  top: 95.17px;
+  left: 5.89px;
+  width: 265.82px;
+  height: 312.68px;
+}
+.susilaStore {
+  top: 292.7px;
+  left: 85.41px;
+  display: inline-block;
+  width: 135.88px;
+  height: 19.98px;
+}
+.ellipseGroup,
+.sumitStore {
+  position: absolute;
+  top: 95.17px;
+  left: 313.94px;
+  width: 265.82px;
+  height: 312.68px;
+}
+.sumitStore {
+  top: 292.7px;
+  left: 85.41px;
+  display: inline-block;
+  width: 104.91px;
+  height: 19.98px;
+}
+.ellipseContainer,
+.lalitaStore {
+  position: absolute;
+  top: 95.17px;
+  left: 621.99px;
+  width: 265.82px;
+  height: 312.68px;
+}
+.lalitaStore {
+  top: 292.5px;
+  left: 84.96px;
+  display: inline-block;
+  width: 99px;
+  height: 20px;
+}
+.groupDiv {
+  position: absolute;
+  top: 95.17px;
+  left: 930.04px;
+  width: 265.82px;
+  height: 312.5px;
+}
+.topLocalPartnersParent {
+  position: absolute;
+  top: 1238.59px;
+  left: 116px;
+  width: 1195.87px;
+  height: 407.84px;
+  text-align: left;
+  font-size: 15.99px;
+  color: var(--color-black);
+  font-family: var(--font-montserrat);
+}

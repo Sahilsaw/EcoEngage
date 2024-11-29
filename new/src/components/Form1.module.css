@@ -1,0 +1,57 @@
+.span {
+  color: var(--color-orangered);
+}
+.email,
+.mobileNumberContainer,
+.pass {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.email,
+.pass {
+  top: 101px;
+  width: 105px;
+  height: 18px;
+}
+.pass {
+  top: 211px;
+  width: 93px;
+}
+.signUp {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: relative;
+  font-size: var(--font-size-lg);
+  font-weight: 600;
+  font-family: var(--font-roboto);
+  color: var(--ffffff);
+  text-align: left;
+  display: inline-block;
+}
+.signUpWrapper {
+  position: absolute;
+  top: 321px;
+  left: 0;
+  border-radius: var(--br-6xl);
+  background-color: var(--color-seagreen);
+  width: 400.01px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  padding: 10.00029182434082px 78.00227355957031px;
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+}
+.nameParent {
+  position: relative;
+  width: 400.01px;
+  height: 362px;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-darkslategray-100);
+  font-family: var(--font-outfit);
+}

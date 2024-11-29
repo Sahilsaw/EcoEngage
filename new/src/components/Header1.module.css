@@ -1,0 +1,92 @@
+.navBarChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--ffffff);
+  width: 1440px;
+  height: 95px;
+}
+.chat,
+.ecoengage,
+.events,
+.marketplace,
+.signUp {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 36px;
+  left: 100px;
+  font-size: var(--font-size-18xl);
+  font-weight: 700;
+  font-family: var(--font-roboto);
+  color: var(--color-seagreen);
+  text-align: left;
+  display: inline-block;
+  width: 190px;
+}
+.chat,
+.events,
+.marketplace,
+.signUp {
+  top: 38px;
+  left: 1324px;
+  font-size: var(--font-size-4xl);
+  width: 80px;
+}
+.chat:hover,
+.events:hover,
+.marketplace:hover,
+.signUp:hover {
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.1);
+}
+.chat,
+.events,
+.marketplace {
+  left: 1208px;
+  width: 73px;
+}
+.chat,
+.marketplace {
+  left: 1111px;
+  width: 63px;
+}
+.marketplace {
+  left: 940px;
+  width: 134px;
+}
+.navBarItem {
+  top: calc(50% + 44.08px);
+  left: calc(50% - 720.42px);
+  border-top: 0.8px solid var(--color-darkgray);
+  box-sizing: border-box;
+  width: 1440.84px;
+  height: 0.84px;
+}
+.logo1,
+.navBar,
+.navBarItem {
+  position: absolute;
+}
+.logo1 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 11px;
+  left: 13px;
+  width: 92px;
+  height: 92px;
+  background-image: url(/public/logo-1@2x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.navBar {
+  margin: 0;
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 103px;
+}

@@ -1,0 +1,90 @@
+.eventsChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  width: 245px;
+  height: 300px;
+  object-fit: cover;
+}
+.eventsChild:hover {
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.eventsInner,
+.eventsItem {
+  position: absolute;
+  top: 242.3px;
+  left: 24px;
+  border-radius: 53.31px;
+  background-color: var(--color-dimgray-200);
+  border: 1.1px solid var(--ffffff);
+  box-sizing: border-box;
+  width: 131.13px;
+  height: 34.12px;
+}
+.eventsInner {
+  top: 241.23px;
+  left: 166.86px;
+  width: 56.5px;
+  height: 36.25px;
+}
+.ictwotoneShareIcon {
+  position: absolute;
+  top: 246.57px;
+  left: 182.85px;
+  width: 25.59px;
+  height: 25.59px;
+  overflow: hidden;
+}
+.interested {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 248.7px;
+  left: 54.92px;
+  font-size: 18.12px;
+  font-weight: 500;
+  font-family: var(--font-roboto);
+  color: var(--ffffff);
+  text-align: left;
+  display: inline-block;
+}
+.materialSymbolsstarOutlineIcon {
+  position: absolute;
+  top: 248.7px;
+  left: 35.73px;
+  width: 19.19px;
+  height: 19.19px;
+  overflow: hidden;
+}
+.davPublicSchool,
+.interested21,
+.sep2023 {
+  position: absolute;
+  top: 166px;
+  left: 73.4px;
+  text-transform: uppercase;
+}
+.davPublicSchool,
+.interested21 {
+  top: 189.9px;
+  left: 27.14px;
+}
+.interested21 {
+  top: 214.83px;
+  left: 52.23px;
+  font-size: 10.56px;
+}
+.events {
+  position: absolute;
+  top: 1525px;
+  left: 100px;
+  width: 245px;
+  height: 300px;
+  text-align: left;
+  font-size: 18.47px;
+  color: var(--ffffff);
+  font-family: var(--font-outfit);
+}
