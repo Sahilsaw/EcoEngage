@@ -1,5 +1,5 @@
 import Link from "next/link"
-import { Button } from "@/components/ui/button"
+import { Button } from "./ui/button"
 import { Leaf } from "lucide-react"
 
 export default function Header() {
@@ -35,4 +35,3 @@ export default function Header() {
     </header>
   )
 }
-

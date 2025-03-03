@@ -1,6 +1,6 @@
 import Link from "next/link"
-import { Button } from "@/components/ui/button"
-import { Input } from "@/components/ui/input"
+import { Button } from "./ui/button"
+import { Input } from "./ui/input"
 import { Leaf, Mail, MapPin, Phone } from "lucide-react"
 
 export default function Footer() {
